@@ -37,5 +37,5 @@ Hello, I'm Fernanda A. R. Veríssimo👋
 </div>
  </br>
  </br>
-Os créditos do status personalizado irão para: https://www.youtube.com/watch?v=Jx5mf1HSFyA&t=528s
+Os créditos do status personalizado irão para: https://www.youtube.com/watch?v=Jx5mf1HSFyA&t=528s /
 https://github.com/davidluiz91

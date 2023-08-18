@@ -4,4 +4,8 @@ Hello, I'm Fernanda A. R. Veríssimo👋
 - 💻 I’m currently learning fullstack development at Rocketseat school
 - 💧Recently I finished my doctorate degree in Environmental Sciences by UFRJ. In this course I was intoduced to programming language in R to propose statichal solutions for my environmental analysis. I spent hours trying to solve code problems and I didn't even see the time pass. At this moment, I realized that I was falling in love to challenges in programming and decide to start a course in this area.
 - 😄 Pronouns: she/her
+- 👨🏻‍👩🏻‍👦🏻‍👦🏻 I love my family and they are my priority. That's the reason why I'm looking for opportunities to remote jobs or home office.
 
+- 🤗 I guess this resume who I am and how I get here at the programming world.
+
+- Thanks for all and hope that we'll know each other soon. 🥰

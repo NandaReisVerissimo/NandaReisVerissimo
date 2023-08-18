@@ -35,4 +35,7 @@ Hello, I'm Fernanda A. R. Veríssimo👋
   <a href="https://www.linkedin.com/in/fernandaarverissimo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
- 
+ </br>
+ </br>
+Os créditos do status personalizado irão para: https://www.youtube.com/watch?v=Jx5mf1HSFyA&t=528s
+https://github.com/davidluiz91
